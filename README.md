@@ -1,5 +1,5 @@
 # pensoft-interaction-tables
-[![Build Status](https://travis-ci.com/globalbioticinteractions/pensoft-interaction-tables.svg)](https://travis-ci.com/globalbioticinteractions/pensoft-interaction-tables) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/pensoft-interaction-tables)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/pensoft-interaction-tables)
+[![Build Status](https://travis-ci.com/pensoft/pensoft-interaction-tables.svg)](https://travis-ci.com/pensoft/pensoft-interaction-tables) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:pensoft/pensoft-interaction-tables)](http://globalbioticinteractions.org/?accordingTo=globi:pensoft/pensoft-interaction-tables)
 
 This repository contains configuration for Global Biotic Interactions (GloBI, ht
 tps://globalbioticinteractions.org) to help index biotic assocations in tables of scholarly articles published via Pensoft publications and made accessible through OpenBiodiv.
