@@ -1,0 +1,49 @@
+{
+  "columns": [
+    {
+      "name": "Family Name",
+      "titles": "Family Name",
+      "datatype": "string"
+    },
+    {
+      "name": "Host Plant",
+      "titles": "Host Plant",
+      "datatype": "string"
+    },
+    {
+      "name": "Thrips species",
+      "titles": "Thrips species",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonFamilyId",
+      "titles": "Family Name_expanded_taxon_id",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonFamilyName",
+      "titles": "Family Name_expanded_taxon_name",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonId",
+      "titles": "Host Plant_expanded_taxon_id",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonName",
+      "titles": "Host Plant_expanded_taxon_name",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonId",
+      "titles": "Thrips species_expanded_taxon_id",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "Thrips species_expanded_taxon_name",
+      "datatype": "string"
+    }
+  ]
+}

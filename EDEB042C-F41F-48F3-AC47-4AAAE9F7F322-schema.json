@@ -1,0 +1,49 @@
+{
+  "columns": [
+    {
+      "name": "Aphid species",
+      "titles": "Aphid species",
+      "datatype": "string"
+    },
+    {
+      "name": "Host plants",
+      "titles": "Host plants",
+      "datatype": "string"
+    },
+    {
+      "name": "Regions",
+      "titles": "Regions",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonId",
+      "titles": "Aphid species_expanded_taxon_id",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "Aphid species_expanded_taxon_name",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonId",
+      "titles": "Host plants_expanded_taxon_id",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonName",
+      "titles": "Host plants_expanded_taxon_name",
+      "datatype": "string"
+    },
+    {
+      "name": "Aphid species_expanded_reference_id",
+      "titles": "Aphid species_expanded_reference_id",
+      "datatype": "string"
+    },
+    {
+      "name": "Aphid species_expanded_reference_name",
+      "titles": "Aphid species_expanded_reference_name",
+      "datatype": "string"
+    }
+  ]
+}
