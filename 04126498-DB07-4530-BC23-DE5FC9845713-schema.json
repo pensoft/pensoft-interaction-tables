@@ -1,0 +1,69 @@
+{
+  "columns": [
+    {
+      "name": "header-0",
+      "titles": "header-0",
+      "datatype": "string"
+    },
+    {
+      "name": "Aphidura species Host plant",
+      "titles": "Aphidura species Host plant",
+      "datatype": "string"
+    },
+    {
+      "name": "Country",
+      "titles": "Country",
+      "datatype": "string"
+    },
+    {
+      "name": "Locality",
+      "titles": "Locality",
+      "datatype": "string"
+    },
+    {
+      "name": "Date",
+      "titles": "Date",
+      "datatype": "string"
+    },
+    {
+      "name": "Coll.",
+      "titles": "Coll.",
+      "datatype": "string"
+    },
+    {
+      "name": "Sample",
+      "titles": "Sample",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonId",
+      "titles": "_expanded_taxon_id",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "_expanded_taxon_name",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonId",
+      "titles": "Aphidura species Host plant_expanded_taxon_id",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonName",
+      "titles": "Aphidura species Host plant_expanded_taxon_name",
+      "datatype": "string"
+    },
+    {
+      "name": "localityId",
+      "titles": "Locality_expanded_taxon_id",
+      "datatype": "string"
+    },
+    {
+      "name": "locality",
+      "titles": "Locality_expanded_taxon_name",
+      "datatype": "string"
+    }
+  ]
+}
